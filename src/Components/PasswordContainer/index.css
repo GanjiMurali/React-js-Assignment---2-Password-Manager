@@ -1,0 +1,56 @@
+.list-item {
+  border: 1px solid #94a3b8;
+  width: 320px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  padding: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.password-stars {
+  width: 100px;
+}
+
+.card-img {
+  width: 40px;
+  cursor: pointer;
+}
+
+.card-para {
+  color: #ffffff;
+  font-family: 'Roboto';
+  margin: 0px;
+  padding: 0px;
+  margin-bottom: 10px;
+}
+
+.last-para {
+  color: #ffffff;
+  font-family: 'Roboto';
+  margin: 0px;
+  padding: 0px;
+}
+
+.alpha-letter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: green;
+  height: 55px;
+  width: 55px;
+  border-radius: 100%;
+  color: #ffffff;
+  font-size: 24px;
+  margin-right: 10px;
+}
+
+.card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
